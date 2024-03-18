@@ -94,7 +94,8 @@ int main(void)
 
 
   ## STM32 BOARD OFF
- ![POtti OFFFFF](https://github.com/Jerushli/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120041243/a85d73ca-f027-4c03-9572-bf0d89fd3f13)
+  ![POtti OFFFFF](https://github.com/Jerushli/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120041243/a9e63239-bef8-4ea0-a7f9-acd5790a8d29)
+
 
 
 ## Result :
