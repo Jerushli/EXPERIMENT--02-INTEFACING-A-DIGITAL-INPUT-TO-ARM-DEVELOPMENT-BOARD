@@ -89,11 +89,11 @@ int main(void)
 ## Output  :
 
 
-  ## STM32 BOARD ON
+  ## LED ON
  ![exp2image](https://github.com/Jerushli/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120041243/bac451d7-1d8d-47bd-863c-1f17d8acc47a)
 
 
-  ## STM32 BOARD OFF
+  ## LED OFF
   ![POtti OFFFFF](https://github.com/Jerushli/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120041243/a9e63239-bef8-4ea0-a7f9-acd5790a8d29)
 
 
